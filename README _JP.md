@@ -21,13 +21,15 @@ enable-rcon=true
 ここではポート番号を `25575`, パスワードを `minecraft` としています。編集できたら上書き保存して、サーバを起動してください。クライアント側の Minecraft も起動してください。
 
 ## 2. プロジェクト作成とパッケージインストール
-このパッケージは `.NET Standard 2.0` 以上で使用できます。ここでは `.NET Core (console application)` を用いた作成方法について説明します。
+このパッケージは `.NET Standard 2.0` 以上で使用できます。ここでは `.NET Core (コンソールアプリケーション)` を用いた作成方法について説明します。
 
 NuGet パッケージマネージャにて `MinecraftConnectionCore` をインストールするか、パッケージマネージャーコンソールにて次のコマンドを使用してください。
 
 ```
 Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
 ```
+
+詳細：https://www.nuget.org/packages/MinecraftConnectionCore/1.0.0-beta1
 
 まずは 1 で設定した値をもとに、インスタンスを生成します。もし、ローカル環境で動かしている場合は IP アドレスを `127.0.0.1` とします。
 
