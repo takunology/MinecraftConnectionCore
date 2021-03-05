@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Minecraft%20Version-1.16.3-brightgreen)
 
-日本語版は [こちら](https://github.com/takunology/MinecraftConnectionCore/blob/main/README%20JP.md) (Japanese is here.)
+日本語版は [こちら](https://github.com/takunology/MinecraftConnectionCore/blob/main/README%20_JP.md) (Japanese is here.)
 
 It is based on [CoreRCON](https://github.com/ScottKaye/CoreRCON) and extended for minecraft. This library can be used without being aware of asynchronous processing. It also provides basic minecraft commands, so that you can easily execute commands without knowing them.
 
