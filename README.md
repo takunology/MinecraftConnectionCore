@@ -6,7 +6,9 @@
 
 ![](https://img.shields.io/badge/Minecraft%20Version-1.16.3-brightgreen)
 
-It is based on CoreRCON and extended for minecraft. This library can be used without being aware of asynchronous processing. It also provides basic minecraft commands, so that you can easily execute commands without knowing them.
+日本語版は [こちら](https://github.com/takunology/MinecraftConnectionCore/blob/main/README_JP.md) (Japanese is here.)
+
+It is based on [CoreRCON](https://github.com/ScottKaye/CoreRCON) and extended for minecraft. This library can be used without being aware of asynchronous processing. It also provides basic minecraft commands, so that you can easily execute commands without knowing them.
 
 # How to Use it?
 ## 1. Launch a Minecraft server
@@ -26,7 +28,11 @@ Save the configuration and start the server. Start Minecraft (the client) as wel
 ## 2. Create a project and install the package
 This package is available for `.NET Standard 2.0` and higher. Here is a sample code using `.NET Core (console application)` as an example.
 
-Search for `MinecraftConnectionCore` in NuGet Package Manager and Install it.
+Search for `MinecraftConnectionCore` in NuGet Package Manager and Install it, or use the following command in the Package Manager Console
+
+```
+Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
+```
 
 First, Create an instance based on the parameters for connecting to the RCON of the minecraft server.Use the values set in Section 1 for the parameters. Also, if you want to use the minecraft server locally, set the IP address to `127.0.0.1`. 
 

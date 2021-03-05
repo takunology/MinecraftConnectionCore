@@ -14,7 +14,6 @@ namespace SampleApp
         static void Main(string[] args)
         {
             Command.SendCommand("/time set 0");
-            
         }
     }
 }
