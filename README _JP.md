@@ -57,11 +57,11 @@ namespace ExampleApp
         private static IPAddress Address = IPAddress.Parse("127.0.0.1");
         private static ushort Port = 25575;
         private static string Pass = "minecraft";
-        private static MinecraftCommands Command = new MinecraftCommands(Address, Port, Pass);
+        private static MinecraftCommands command = new MinecraftCommands(Address, Port, Pass);
 
         static void Main(string[] args)
         {
-            Command.SendCommand("/time set 0");
+            command.SendCommand("/time set 0");
         }
     }
 }
@@ -81,7 +81,7 @@ static void Main(string[] args)
     {
         for (int j = 0; j < 10; j++) 
         {
-            Command.SetBlock(x + i, y, z + j, "minecraft:stone");
+            command.SetBlock(x + i, y, z + j, "minecraft:stone");
         }
     }
 }
