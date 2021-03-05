@@ -40,14 +40,14 @@ First, Create an instance based on the parameters for connecting to the RCON of 
 
 Next, use the methods of the generated instance.The methods available in this library are as follows.
 
-- DisplayMessage(object Text);
-- DisplayTitle(object Text);
-- GiveEffect(string PlayerName, string EffectID, int Time);
-- GiveItem(string PlayerName, string ItemID, int Count);
-- ItemClear(string PlayerName, string ItemID, int Count);
-- SendCommand(string Command);
-- SetBlock(int x, int y, int z, string BlockItemID);
-- Summon(int x, int y, int z, string EntityID);
+- `DisplayMessage (object Text)`
+- `DisplayTitle (object Text)`
+- `GiveEffect (string PlayerName, string EffectID, int Time)`
+- `GiveItem (string PlayerName, string ItemID, int Count)`
+- `ItemClear (string PlayerName, string ItemID, int Count)`
+- `SendCommand (string Command)`
+- `SetBlock (int x, int y, int z, string BlockItemID)`
+- `Summon (int x, int y, int z, string EntityID)`
 
 For example, a program to set the time to 0 could be written like this. 
 
