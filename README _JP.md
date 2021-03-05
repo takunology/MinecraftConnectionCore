@@ -35,14 +35,14 @@ Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
 
 次に、生成したインスタンスのメソッドを使用して、Minecraft にコマンドを送信します。このライブラリで使用できるメソッドは次の通りです。
 
-- DisplayMessage(object Text);
-- DisplayTitle(object Text);
-- GiveEffect(string PlayerName, string EffectID, int Time);
-- GiveItem(string PlayerName, string ItemID, int Count);
-- ItemClear(string PlayerName, string ItemID, int Count);
-- SendCommand(string Command);
-- SetBlock(int x, int y, int z, string BlockItemID);
-- Summon(int x, int y, int z, string EntityID);
+- `DisplayMessage (object Text)`
+- `DisplayTitle (object Text)`
+- `GiveEffect (string PlayerName, string EffectID, int Time)`
+- `GiveItem (string PlayerName, string ItemID, int Count)`
+- `ItemClear (string PlayerName, string ItemID, int Count)`
+- `SendCommand (string Command)`
+- `SetBlock (int x, int y, int z, string BlockItemID)`
+- `Summon (int x, int y, int z, string EntityID)`
 
 例えば、時間を 0 に設定するコマンドを実行したいときは次のようなプログラムを書きます。
 
