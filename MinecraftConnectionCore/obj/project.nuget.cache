@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rL8+73G4Qn1YdE5NuKPj0a7TN6J1zsBy0ymmDolT8Rm0y5itgQB22l6heTxCBfed+6Fc89zd0CHN8cFus1DzPg==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\MinecraftConnectionCore\\MinecraftConnectionCore\\MinecraftConnectionCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

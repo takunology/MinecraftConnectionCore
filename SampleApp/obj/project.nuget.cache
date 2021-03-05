@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6gvqNs5rVVhtNRXxu9m4OHWU/msy1IBwC6KCSu6lF1MDjo3P9gOMfzzTRaCgzj7ZXlfchvG8WzG1Ca8kN1Tfmw==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\MinecraftConnectionCore\\SampleApp\\ExampleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takun\\.nuget\\packages\\corercon\\5.0.0\\corercon.5.0.0.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\minecraftconnectioncore\\1.0.0-beta1\\minecraftconnectioncore.1.0.0-beta1.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
