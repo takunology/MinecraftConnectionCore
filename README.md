@@ -34,6 +34,8 @@ Search for `MinecraftConnectionCore` in NuGet Package Manager and Install it, or
 Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
 ```
 
+Details : https://www.nuget.org/packages/MinecraftConnectionCore/1.0.0-beta1
+
 First, Create an instance based on the parameters for connecting to the RCON of the minecraft server.Use the values set in Section 1 for the parameters. Also, if you want to use the minecraft server locally, set the IP address to `127.0.0.1`. 
 
 Next, use the methods of the generated instance.The methods available in this library are as follows.
