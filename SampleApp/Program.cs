@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net;
+using System.Threading.Tasks;
 using MinecraftConnectionCore;
 
 namespace SampleApp
@@ -9,11 +10,11 @@ namespace SampleApp
         private static IPAddress Address = IPAddress.Parse("127.0.0.1");
         private static ushort Port = 25575;
         private static string Pass = "minecraft";
-        private static MinecraftCommands Command = new MinecraftCommands(Address, Port, Pass);
+        private static MinecraftCommands command = new MinecraftCommands(Address, Port, Pass);
 
         static void Main(string[] args)
         {
-            Command.SendCommand("/time set 0");
+            command.SendCommand("/time set 0");
         }
     }
 }

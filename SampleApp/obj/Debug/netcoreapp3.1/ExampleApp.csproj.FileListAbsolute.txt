@@ -1,0 +1,17 @@
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.exe
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.deps.json
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.runtimeconfig.json
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.runtimeconfig.dev.json
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.dll
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\ExampleApp.pdb
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\CoreRCON.dll
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\MinecraftConnectionCore.dll
+F:\GitHub\MinecraftConnectionCore\SampleApp\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.csprojAssemblyReference.cache
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.AssemblyInfoInputs.cache
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.AssemblyInfo.cs
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.csproj.CoreCompileInputs.cache
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.csproj.CopyComplete
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.dll
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.pdb
+F:\GitHub\MinecraftConnectionCore\SampleApp\obj\Debug\netcoreapp3.1\ExampleApp.genruntimeconfig.cache

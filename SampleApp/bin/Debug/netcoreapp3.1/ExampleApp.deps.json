@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExampleApp/1.0.0": {
+        "dependencies": {
+          "MinecraftConnectionCore": "1.0.0-beta1"
+        },
+        "runtime": {
+          "ExampleApp.dll": {}
+        }
+      },
+      "CoreRCON/5.0.0": {
+        "dependencies": {
+          "System.IO.Pipelines": "4.7.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CoreRCON.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "MinecraftConnectionCore/1.0.0-beta1": {
+        "dependencies": {
+          "CoreRCON": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MinecraftConnectionCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.IO.Pipelines/4.7.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "4.0.2.1",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExampleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreRCON/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hPZWvuIT+nivgTwpRePMtBh28ldy5g2Orsvh/nU9gpNNL7JiWGeN5yh6JO4wxDOT3WhR1RuIeH8jBoRV8cN4ZA==",
+      "path": "corercon/5.0.0",
+      "hashPath": "corercon.5.0.0.nupkg.sha512"
+    },
+    "MinecraftConnectionCore/1.0.0-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ny6tPEmdzdm2o1iGSzAiRbPS8fzK4FyUE91tYDu8WK9hitm6nRY59CYdNnWSlY8dfPzbl1suQCdYCHAo3vTR6g==",
+      "path": "minecraftconnectioncore/1.0.0-beta1",
+      "hashPath": "minecraftconnectioncore.1.0.0-beta1.nupkg.sha512"
+    },
+    "System.IO.Pipelines/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rGIIhoY3lUdn9rWeuGdgeZZ0P+SpJ1wZI5g8TnXqgvuhFgUP7iP9Nt5FZebYInQZQxqnwjPxdYYBE5l/8PJmqQ==",
+      "path": "system.io.pipelines/4.7.2",
+      "hashPath": "system.io.pipelines.4.7.2.nupkg.sha512"
+    }
+  }
+}
