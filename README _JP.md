@@ -1,4 +1,4 @@
-# MinecraftConnectionCore - preview
+# MinecraftConnectionCore
 
 <div>
 <img src="./logo.png" width="350" hspace="0" vspace="10">
