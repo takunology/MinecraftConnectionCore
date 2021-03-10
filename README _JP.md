@@ -26,10 +26,10 @@ enable-rcon=true
 NuGet パッケージマネージャにて `MinecraftConnectionCore` をインストールするか、パッケージマネージャーコンソールにて次のコマンドを使用してください。
 
 ```
-Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
+Install-Package MinecraftConnectionCore -Version 1.0.0
 ```
 
-詳細：https://www.nuget.org/packages/MinecraftConnectionCore/1.0.0-beta1
+詳細：https://www.nuget.org/packages/MinecraftConnectionCore
 
 まずは 1 で設定した値をもとに、インスタンスを生成します。もし、ローカル環境で動かしている場合は IP アドレスを `127.0.0.1` とします。
 
