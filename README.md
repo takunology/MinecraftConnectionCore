@@ -31,10 +31,10 @@ This package is available for `.NET Standard 2.0` and higher. Here is a sample c
 Search for `MinecraftConnectionCore` in NuGet Package Manager and Install it, or use the following command in the Package Manager Console
 
 ```
-Install-Package MinecraftConnectionCore -Version 1.0.0-beta1
+Install-Package MinecraftConnectionCore -Version 1.0.0
 ```
 
-Details : https://www.nuget.org/packages/MinecraftConnectionCore/1.0.0-beta1
+Details : https://www.nuget.org/packages/MinecraftConnectionCore
 
 First, Create an instance based on the parameters for connecting to the RCON of the minecraft server.Use the values set in Section 1 for the parameters. Also, if you want to use the minecraft server locally, set the IP address to `127.0.0.1`. 
 
